@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
+//  Noun: Tape Machine
 //  action 1:
-
+tapeMachine.record();
 //  action 2:
-
+tapeMachine.play();
 //  action 3:
- 
+tapeMachine.rewind();
 //  2)
-//  Noun:
+//  Noun: Player1
 //  action 1:
-
+player1.run();
 //  action 2:
-
+player1.dodge();
 //  action 3:
- 
+player1.jump();
 //  3)
-//  Noun:
+//  Noun: Dog
 //  action 1:
-
+dog.bark();
 //  action 2:
-
+dog.growl();
 //  action 3:
- 
+dog.lick();
 //  4)
-//  Noun:
+//  Noun: Guitar Player
 //  action 1:
-
+guitarPlayer.strum();
 //  action 2:
-
+guitarPlayer.tune();
 //  action 3:
- 
+guitarPlayer.shred();
 //  5)
-//  Noun:
+//  Noun: Heart
 //  action 1:
-
+heart.pump();
 //  action 2:
-
+heart.speedUpPumping();
 //  action 3:
- 
+heart.slowDownPumping();
 //  6)
-//  Noun:
+//  Noun: Mom
 //  action 1:
-
+mom.callSonToCheckIn();
 //  action 2:
-
+mom.makeFunOfDad();
 //  action 3:
- 
+mom.cookAwesomeDinner();
 //  7)
-//  Noun:
+//  Noun: Drummer
 //  action 1:
-
+drummer.kickDrum();
 //  action 2:
-
+drummer.snareDrum();
 //  action 3:
- 
+drummer.hiHat();
 //  8)
-//  Noun:
+//  Noun: Auto Mixing Class
 //  action 1:
-
+autoMixingClass.eqSignal();
 //  action 2:
-
+autoMixingClass.compressSignal();
 //  action 3:
- 
+autoMixingClass.limitSignal();
 //  9)
-//  Noun:
+//  Noun:Chef
 //  action 1:
-
+chef.chop();
 //  action 2:
-
+chef.season();
 //  action 3:
- 
+chef.stir();
 //  10)
-//  Noun:
+//  Noun:Spaceship
 //  action 1:
-
+spaceship.increaseThrusterOutput();
 //  action 2:
-
+spaceship.detachBridge();
 //  action 3:
- 
+spaceship.openHailingFrequencies();
 
 
 #endif
