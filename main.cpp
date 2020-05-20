@@ -76,13 +76,13 @@ dog.growl();
 //  action 3:
 dog.lick();
 //  4)
-//  Noun: Guitar
+//  Noun: Guitar Player
 //  action 1:
-guitar.strum();
+guitarPlayer.strum();
 //  action 2:
-guitar.tune();
+guitarPlayer.tune();
 //  action 3:
-guitar.shred();
+guitarPlayer.shred();
 //  5)
 //  Noun: Heart
 //  action 1:
@@ -110,11 +110,11 @@ drummer.hiHat();
 //  8)
 //  Noun: Auto Mixing Class
 //  action 1:
-amc.eq();
+autoMixingClass.eqSignal();
 //  action 2:
-amc.compress();
+autoMixingClass.compressSignal();
 //  action 3:
-amc.limit();
+autoMixingClass.limitSignal();
 //  9)
 //  Noun:Chef
 //  action 1:
